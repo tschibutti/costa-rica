@@ -2,7 +2,6 @@
 
 * **Reisezeitraum:** 19. April 2027 bis 18. Mai 2027 (29 Tage / 28 Nächte vor Ort; Rückflug-Ankunft in der Schweiz am 18.05.2027)
 * **Reisende:** Vater, Mutter, Tochter & Sohn
-* **Verpflegungs-Grundsatz:** Jeweils **Morgen, Abend** in der Unterkunft (das Mittagessen erfolgt unterwegs oder vor Ort immer spontan).
 * **Status-Labels beim Programm:**
   * **`[geplant]`**: Im Reiseprogramm gebuchter Ausflug
   * **`[inkludiert]`**: Direkt in der Unterkunft / auf dem Hotelgelände inbegriffen
