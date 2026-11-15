@@ -1,8 +1,11 @@
 # Costa Rica Familienreise 2027 – Reiseplanung & Entscheidungsübersicht
 
+> 👉 **[Zum definitiven Reiseprogramm (Übersichtstabelle der entschiedenen Stationen: `REISEPROGRAMM.md`)](./REISEPROGRAMM.md)**
+
 * **Reisezeitraum:** 19. April 2027 bis 18. Mai 2027 (29 Tage / 28 Nächte vor Ort; Rückflug-Ankunft in der Schweiz am 18.05.2027 mit Edelweiss Air)
 * **Reisende:** Vater, Mutter, Tochter & Sohn
 * **Mobilität vor Ort:** Eigener Mietwagen (Standard SUV 4x4 Automatik inkl. 2 Kindersitzen)
+* **Verpflegungs-Grundsatz:** Jeweils **Morgen, Abend** in der Unterkunft (Mittagessen spontan)
 
 ---
 
@@ -108,55 +111,55 @@ Folgende Punkte und Fragen aus dem Decision Log klären wir für die nächste Pr
 
 ## 4. Ausflüge (Fokus: Aktuelle Hotel-Auswahl gemäss Wetu)
 
-*Grundsatz: **Maximal 1 Programm pro Tag** (jeweils vormittags). Die Deklaration **`[in Unterkunft inkludiert]`** bezieht sich in diesem Kapitel ausschliesslich auf die **aktuelle Hotel-Auswahl gemäss Wetu**.*
+*Grundsatz: **Maximal 1 Programm pro Tag** (jeweils vormittags). Die Deklaration **`[inkludiert]`** bezieht sich in diesem Kapitel ausschliesslich auf die **aktuelle Hotel-Auswahl gemäss Wetu**.*
 
 ### Alajuela / Heredia (Grünes Zentraltal / Wetu-Basis San José)
-* **`[bereits geplant]`** **Meet & Greet Empfang am Flughafen SJO & Privattransfer zum Hotel**
-* **`[in Unterkunft inkludiert]`** *(Wetu-Basis Hotel Aranjuez)*: Begrünter Innenhof-Garten mit Vögeln beim Frühstück *(kein Pool vorhanden)*.
+* **`[geplant]`** **Meet & Greet Empfang am Flughafen SJO & Privattransfer zum Hotel**
+* **`[inkludiert]`** *(Wetu-Basis Hotel Aranjuez)*: Begrünter Innenhof-Garten mit Vögeln beim Frühstück *(kein Pool vorhanden)*.
 * **`[empfehlung]`** **Rescate Wildlife Rescue Center (ehem. Zoo Ave, Alajuela)**: Flache, schattige Buggy-Wege mit geretteten Faultieren, Affen, Tukanen und grossem Kinderspielplatz.
 * **`[empfehlung]`** *Alternative:* **Toucan Rescue Ranch (Heredia)** (geführte Faultier- & Tukan-Rettungsstation) *oder* **Doka Estate Coffee Tour** (Wassermühle & Schmetterlingsgarten).
 
 ### Manuel Antonio
-* **`[bereits geplant]`** **José's Crocodile River Tour (Río Tárcoles)**: Überdachte Bootstour zu grossen Spitzkrokodilen & Wasservögeln *(als Bewegungspause auf der Anfahrt)*.
-* **`[bereits geplant]`** **Eintritt Nationalpark Manuel Antonio**: Flacher Faultier-Holzsteg (*Sendero Perezoso*), 3 Affenarten & Baden am ruhigen Parkstrand *(Start um 07:00 Uhr; ersetzt zugleich die gestrichene Cahuita-Wanderung)*.
-* **`[in Unterkunft inkludiert]`** *(Wetu-Basis Karahé Beach Hotel – Beachfront Room)*: Kleiner Aussenpool auf der Strandseite & direkter Zugang zum Sandstrand *Playa Espadilla* direkt vor dem Zimmer.
+* **`[geplant]`** **José's Crocodile River Tour (Río Tárcoles)**: Überdachte Bootstour zu grossen Spitzkrokodilen & Wasservögeln *(als Bewegungspause auf der Anfahrt)*.
+* **`[geplant]`** **Eintritt Nationalpark Manuel Antonio**: Flacher Faultier-Holzsteg (*Sendero Perezoso*), 3 Affenarten & Baden am ruhigen Parkstrand *(Start um 07:00 Uhr; ersetzt zugleich die gestrichene Cahuita-Wanderung)*.
+* **`[inkludiert]`** *(Wetu-Basis Karahé Beach Hotel – Beachfront Room)*: Kleiner Aussenpool auf der Strandseite & direkter Zugang zum Sandstrand *Playa Espadilla* direkt vor dem Zimmer.
 * **`[empfehlung]`** **Badevormittag in der geschützten Bucht Playa Biesanz**: Fast wellenfreie kleine Dschungelbucht mit flachem Wasser und Affen in den Küstenbäumen.
 
 ### Santa Elena / Monteverde
-* **`[bereits geplant]`** **Geführte Natural History Tour im Curi-Cancha-Reservat**: Ruhige, familienfreundliche Nebelwaldwanderung auf gut begehbaren Pfaden zu Quetzalen, Tukanen, Nasenbären und hohlen Würgefeigen.
-* **`[in Unterkunft inkludiert]`** *(Wetu-Basis Cala Lodge)*: Kurze eigene Waldpfade auf dem Grundstück mit Kolibri-Beobachtung sowie gratis Kaffee, Tee & Kuchen am Nachmittag *(kein Pool, kein Abendrestaurant)*.
+* **`[geplant]`** **Geführte Natural History Tour im Curi-Cancha-Reservat**: Ruhige, familienfreundliche Nebelwaldwanderung auf gut begehbaren Pfaden zu Quetzalen, Tukanen, Nasenbären und hohlen Würgefeigen.
+* **`[inkludiert]`** *(Wetu-Basis Cala Lodge)*: Kurze eigene Waldpfade auf dem Grundstück mit Kolibri-Beobachtung sowie gratis Kaffee, Tee & Kuchen am Nachmittag *(kein Pool, kein Abendrestaurant)*.
 * **`[empfehlung]`** **Monteverde Hummingbird Gallery & Butterfly Gardens (oder Frog Pond)**: Hunderte freifliegende Kolibris aus nächster Nähe + Schmetterlingsgarten bzw. Frosch-Terrarium bei Tageslicht.
 * **`[empfehlung]`** *Alternative:* **El Trapiche Tour** (Fahrt mit dem Ochsenkarren, Zuckerrohr pressen & Schokolade machen).
 
 ### Sámara & Playa Carrillo
-* **`[bereits geplant]`** **Bootstour zur Delfinbeobachtung**: Vormittägliche Ausfahrt zu Delfinen und Meeresschildkröten *(angepasst: ohne offenes Hochsee-Schnorcheln)*.
+* **`[geplant]`** **Bootstour zur Delfinbeobachtung**: Vormittägliche Ausfahrt zu Delfinen und Meeresschildkröten *(angepasst: ohne offenes Hochsee-Schnorcheln)*.
 * **`[empfehlung]`** *(Gespeicherter Familien-Wunsch)* **Privater Familien-Strandausritt im Schritt**: Vormittags am flachen Sandstrand & durch den Palmenwald (*Samara Adventure Company «Horseback Carrillo»* oder *Horse Jungle*), mit Führstrick-Begleitung für die Tochter und Führstrick/Mitreiten im Sattel für den Sohn.
 * **`[empfehlung]`** **Besuch im The Ara Project (Punta Islita)**: Morgendliche Fütterung & Freiflug der Grossen Soldatenaras und Hellroten Aras *(1:1-Ersatz für den gestrichenen Programmpunkt Ara Manzanillo)*.
 * **`[empfehlung]`** **Natur-Planschbecken (`Tidepools`) bei Ebbe & Palmenstrand Playa Carrillo**: Kleine Fische, Einsiedlerkrebse und Seesterne im knietiefen, warmen Riffwasser entdecken *(an den freien Strandtagen)*.
-* **`[in Unterkunft inkludiert]`** *(Wetu-Basis Locanda Sámara Beach)*: Kleiner Gartenpool sowie hoteleigene Sonnenliegen und Sonnenschirme direkt auf dem flachen Sandstrand von Sámara.
+* **`[inkludiert]`** *(Wetu-Basis Locanda Sámara Beach)*: Kleiner Gartenpool sowie hoteleigene Sonnenliegen und Sonnenschirme direkt auf dem flachen Sandstrand von Sámara.
 
 ### Rincón de la Vieja Nationalpark
-* **`[bereits geplant]`** **Eintritt Nationalpark Rincón de la Vieja (Sektor Las Pailas)**: Leichter Rundweg zu blubbernden Vulkanschlammlöchern, dampfenden Fumarolen, Mini-Vulkanen, Affen und Nasenbären.
-* **`[in Unterkunft inkludiert]`** *(Wetu-Basis Hotel Hacienda Guachipelín)*:
+* **`[geplant]`** **Eintritt Nationalpark Rincón de la Vieja (Sektor Las Pailas)**: Leichter Rundweg zu blubbernden Vulkanschlammlöchern, dampfenden Fumarolen, Mini-Vulkanen, Affen und Nasenbären.
+* **`[inkludiert]`** *(Wetu-Basis Hotel Hacienda Guachipelín)*:
   1. **Freier Eintritt zu den Río Negro Thermalquellen & Vulkanschlammbad** (10 warme Naturbecken im Flusswald).
   2. **Morgendliches Kühemelken im Ranch-Stall** & Besuch der Ranchtiere.
   3. **Ranch-Pool mit Kinderbereich & Zugang zu den hoteleigenen Wasserfällen** (*Chorreras / La Cangreja*).
 * **`[empfehlung]`** **Schmetterlings-, Frosch- & Schlangengarten auf der Hacienda** *oder* kurzer **Cowboy-Ranchritt** (mit Führstrick-Begleitung).
 
 ### Caño Negro Wildlife Refuge
-* **`[bereits geplant]`** **Private Bootstour im Caño Negro Wildlife Refuge**: Ruhige Morgenfahrt im überdachten Boot auf dem Río Frío zu Kaimanen, Jesus-Christus-Echsen, 3 Affenarten, Faultieren und Wasservögeln.
+* **`[geplant]`** **Private Bootstour im Caño Negro Wildlife Refuge**: Ruhige Morgenfahrt im überdachten Boot auf dem Río Frío zu Kaimanen, Jesus-Christus-Echsen, 3 Affenarten, Faultieren und Wasservögeln.
 * **`[empfehlung]`** **Faultier-Garten Bijagua (Finca Verde / Tapir Valley) oder Wasserfall Llanos de Cortés**: Flacher Spaziergang zu wilden Faultieren am Fuss des Vulkans Tenorio bzw. Badestopp am Sandstrand-Wasserfall *(als kindergerechter Ersatz für die steilen Treppen im NP Tenorio)*.
-* **`[in Unterkunft inkludiert]`** *(Wetu-Basis Hotel de Campo Caño Negro)*: Aussenpool, Vogel-Futterstationen direkt beim Restaurant und eigener flacher Lagunen-Spazierweg auf dem Gelände mit Brüllaffen & Leguanen.
+* **`[inkludiert]`** *(Wetu-Basis Hotel de Campo Caño Negro)*: Aussenpool, Vogel-Futterstationen direkt beim Restaurant und eigener flacher Lagunen-Spazierweg auf dem Gelände mit Brüllaffen & Leguanen.
 
 ### La Fortuna / Vulkan Arenal
-* **`[bereits geplant]`** **Mistico Arenal Hanging Bridges**: Begehung der **befestigten Kurzrunde** über die Hängebrücken im Regenwald mit Blick auf den Vulkan *(Start 08:00 Uhr)*.
-* **`[in Unterkunft inkludiert]`** *(Wetu-Basis Miradas Arenal Hotel & Hotsprings)*: Aussenpool mit Kinderbereich, kleine eigene Thermalbecken im Garten und kurze Gartenwege mit Blick auf den Vulkan.
+* **`[geplant]`** **Mistico Arenal Hanging Bridges**: Begehung der **befestigten Kurzrunde** über die Hängebrücken im Regenwald mit Blick auf den Vulkan *(Start 08:00 Uhr)*.
+* **`[inkludiert]`** *(Wetu-Basis Miradas Arenal Hotel & Hotsprings)*: Aussenpool mit Kinderbereich, kleine eigene Thermalbecken im Garten und kurze Gartenwege mit Blick auf den Vulkan.
 * **`[empfehlung]`** **Bogarin Sloth Trail (Flacher Faultier-Pfad)**: Ebener Naturpfad in La Fortuna mit sehr hoher Sichtungsgarantie für Faultiere, Tukane und Pfeilgiftfrösche.
 * **`[empfehlung]`** *Alternative:* **Don Olivo Chocolate & Fruit Tour** (Tropenfrüchte vom Baum naschen, Kakao & Zuckerrohr) *oder* **Ruhiger Safari-Float im Ruderboot auf dem Río Peñas Blancas**.
 
 ### Puerto Viejo de Sarapiquí
-* **`[bereits geplant]`** **Ananas-Farm-Tour mit Wasserbüffeln (Bio-Finca Surá)**: Fahrt auf dem Traktor-/Büffelwagen durch die Plantage, zahme Wasserbüffel füttern & streicheln und frische Bio-Ananas ernten.
-* **`[in Unterkunft inkludiert]`** *(Wetu-Basis Selva Verde Lodge)*: Authentisches Regenwald-Feeling auf Stelzen, Pool, botanischer Garten mit **Erdbeer-Pfeilgiftfröschen (`Blue Jeans Frogs`)**, Rotaugenlaubfröschen, grossen Leguanen, Tukan-Futterplatz beim Frühstück sowie überdachte Regenwald-Holzstege direkt ab Lodge.
+* **`[geplant]`** **Ananas-Farm-Tour mit Wasserbüffeln (Bio-Finca Surá)**: Fahrt auf dem Traktor-/Büffelwagen durch die Plantage, zahme Wasserbüffel füttern & streicheln und frische Bio-Ananas ernten.
+* **`[inkludiert]`** *(Wetu-Basis Selva Verde Lodge)*: Authentisches Regenwald-Feeling auf Stelzen, Pool, botanischer Garten mit **Erdbeer-Pfeilgiftfröschen (`Blue Jeans Frogs`)**, Rotaugenlaubfröschen, grossen Leguanen, Tukan-Futterplatz beim Frühstück sowie überdachte Regenwald-Holzstege direkt ab Lodge.
 * **`[empfehlung]`** **Tirimbina Schokoladentour über die Regenwald-Hängebrücke**: Gang über die grosse Hängebrücke über den Río Sarapiquí in den Kakaowald mit spielerischer Schokoladen-Herstellung und Verkostung für die Kinder.
 
 ---
@@ -167,11 +170,11 @@ Folgende Punkte und Fragen aus dem Decision Log klären wir für die nächste Pr
 
 | Region | Ausgewähltes Preis-Leistungs-Upgrade *(inkl. geschätzter Mehrkosten / Delta)* | **Differenz bei den Tätigkeiten & Erlebnissen gegenüber dem aktuellen Wetu-Hotel** |
 | :--- | :--- | :--- |
-| **Alajuela / Heredia** | **Buena Vista Chic Hotel (Alajuela)**<br>*7.5/10 \| Delta: **ca. +USD 180** (für 2N)*<br>*(oder Hotel Bougainvillea, +USD 220)* | • **`[in Unterkunft inkludiert]` NEU:** **Solar-beheizter Aussenpool** mit Panoramablick (im Hotel Aranjuez gibt es keinen Pool!).<br>• **`[in Unterkunft inkludiert]` NEU:** **Eigene flache Spazierwege durch die Kaffeeplantage** (bzw. beim *Bougainvillea* 4 Hektar botanischer Park mit wilden Fröschen & Kolibris direkt am Hotel) + vollwertiges Abendrestaurant vor Ort.<br>• **`[empfehlung]` VORTEIL:** Direkte Nähe zum *Rescate Wildlife Center (Zoo Ave)* und zur *Doka Coffee Tour* im Grünen statt Innenstadtverkehr in San José. |
-| **Manuel Antonio** | **Si Como No Resort & Wildlife Refuge**<br>*8.5/10 \| Delta: **ca. +USD 330** (für 3N)* | • **`[in Unterkunft inkludiert]` NEU:** Grosser **Familienpool mit eigener Wasserrutsche** (Highlight für Tochter & Sohn an den Nachmittagen!).<br>• **`[in Unterkunft inkludiert]` NEU:** Hoteleigenes **Wildlife Refuge mit Schmetterlingsgarten, Frosch- & Krokodilteich** direkt beim Hotel – ersetzt einen kostenpflichtigen externen Tierpark-Ausflug!<br>• **`[in Unterkunft inkludiert]` ÄNDERUNG:** Statt direkt am lauteren öffentlichen Strand zu wohnen, bringt euch ein kostenloser Hotel-Shuttle zum Strand; dafür habt ihr 2 hervorragende Familienrestaurants und abends ein kleines Open-Air-Kinderkino im Resort. |
-| **Santa Elena / Monteverde** | **Hotel Belmar (Chalet / Family Room)**<br>*8.5/10 \| Delta: **ca. +USD 435** (für 3N)* | • **`[in Unterkunft inkludiert]` NEU:** **Eigene Bio-Farm (*Finca Madre Tierra*), Gemüsegarten, Ententeich mit Ruderboot & private Nebelwaldpfade** direkt auf dem Hotelgelände.<br>• **`[in Unterkunft inkludiert]` NEU:** **Herausragendes Farm-to-Table-Abendrestaurant direkt im Hotel** – kein Auswärtsfahren bei Regen/Dunkelheit am Abend nötig (wie in der *Cala Lodge*). |
-| **Sámara & Playa Carrillo** | **Nammbú Beach Front Bungalows (Playa Carrillo)**<br>*8.0/10 \| Delta: **ca. +USD 350** (für 7N)* | • **`[in Unterkunft inkludiert]` NEU:** Viel grösserer **Mosaik-Infinity-Pool mit integriertem, flachem Kinder-Planschbereich** (in der *Locanda* nur ein kleiner Pool) sowie grosse Leguane & Brüllaffen direkt im Hotelgarten.<br>• **`[in Unterkunft inkludiert]` ÄNDERUNG:** Ruhige Lage auf der Anhöhe oberhalb des unbebauten Kokospalmenstrands *Playa Carrillo* ohne abendlichen Strandbar-Musiklärm. |
+| **Alajuela / Heredia** | **Buena Vista Chic Hotel (Alajuela)**<br>*7.5/10 \| Delta: **ca. +USD 180** (für 2N)*<br>*(oder Hotel Bougainvillea, +USD 220)* | • **`[inkludiert]` NEU:** **Solar-beheizter Aussenpool** mit Panoramablick (im Hotel Aranjuez gibt es keinen Pool!).<br>• **`[inkludiert]` NEU:** **Eigene flache Spazierwege durch die Kaffeeplantage** (bzw. beim *Bougainvillea* 4 Hektar botanischer Park mit wilden Fröschen & Kolibris direkt am Hotel) + vollwertiges Abendrestaurant vor Ort.<br>• **`[empfehlung]` VORTEIL:** Direkte Nähe zum *Rescate Wildlife Center (Zoo Ave)* und zur *Doka Coffee Tour* im Grünen statt Innenstadtverkehr in San José. |
+| **Manuel Antonio** | **Si Como No Resort & Wildlife Refuge**<br>*8.5/10 \| Delta: **ca. +USD 330** (für 3N)* | • **`[inkludiert]` NEU:** Grosser **Familienpool mit eigener Wasserrutsche** (Highlight für Tochter & Sohn an den Nachmittagen!).<br>• **`[inkludiert]` NEU:** Hoteleigenes **Wildlife Refuge mit Schmetterlingsgarten, Frosch- & Krokodilteich** direkt beim Hotel – ersetzt einen kostenpflichtigen externen Tierpark-Ausflug!<br>• **`[inkludiert]` ÄNDERUNG:** Statt direkt am lauteren öffentlichen Strand zu wohnen, bringt euch ein kostenloser Hotel-Shuttle zum Strand; dafür habt ihr 2 hervorragende Familienrestaurants und abends ein kleines Open-Air-Kinderkino im Resort. |
+| **Santa Elena / Monteverde** | **Hotel Belmar (Chalet / Family Room)**<br>*8.5/10 \| Delta: **ca. +USD 435** (für 3N)* | • **`[inkludiert]` NEU:** **Eigene Bio-Farm (*Finca Madre Tierra*), Gemüsegarten, Ententeich mit Ruderboot & private Nebelwaldpfade** direkt auf dem Hotelgelände.<br>• **`[inkludiert]` NEU:** **Herausragendes Farm-to-Table-Abendrestaurant direkt im Hotel** – kein Auswärtsfahren bei Regen/Dunkelheit am Abend nötig (wie in der *Cala Lodge*). |
+| **Sámara & Playa Carrillo** | **Nammbú Beach Front Bungalows (Playa Carrillo)**<br>*8.0/10 \| Delta: **ca. +USD 350** (für 7N)* | • **`[inkludiert]` NEU:** Viel grösserer **Mosaik-Infinity-Pool mit integriertem, flachem Kinder-Planschbereich** (in der *Locanda* nur ein kleiner Pool) sowie grosse Leguane & Brüllaffen direkt im Hotelgarten.<br>• **`[inkludiert]` ÄNDERUNG:** Ruhige Lage auf der Anhöhe oberhalb des unbebauten Kokospalmenstrands *Playa Carrillo* ohne abendlichen Strandbar-Musiklärm. |
 | **Rincón de la Vieja NP** | **Kein Hotelwechsel nötig!** *(Hacienda Guachipelín bleibt)*<br>*Optional: Upgrade auf «Legacy Suite» (**ca. +USD 150** für 3N)* | • **Differenz bei den Aktivitäten: Keine (`0`).** Da wir bereits in der *Hacienda Guachipelín* wohnen, sind die besten Inklusiv-Erlebnisse (Río Negro Thermalquellen, Schlammbad, Kühemelken im Stall, Wasserfälle) bereits im Basis-Angebot voll enthalten! Das Zimmer-Upgrade bringt lediglich mehr Platz und Ruhe am Abend. |
 | **Caño Negro Wildlife Refuge** | **Kein Hotelwechsel nötig!** *(Hotel de Campo bleibt)*<br>*Optional: Natural Lodge Caño Negro (**ca. +USD 60** für 2N)* | • **Differenz bei den Aktivitäten: Keine (`0`).** Das *Hotel de Campo* bietet bereits den schönen Lagunen-Rundweg, Vogel-Futterplätze, Pool, dichte Insektengitter und Halbpension. |
-| **La Fortuna / Vulkan Arenal** | **Hotel Los Lagos Spa & Resort**<br>*8.0/10 \| Delta: **ca. +USD 300** (für 4N)* | • **`[in Unterkunft inkludiert]` NEU (Grösster Mehrwert der Reise!):** Statt 2 kleiner Becken (*Miradas*) bekommt man eine riesige **Thermal-Erlebniswelt mit 8 Natur-Thermalbecken unterschiedlicher Temperatur UND Kinder-Wasserrutschen** direkt im Hotel (spart teure externe Thermen-Eintritte!).<br>• **`[in Unterkunft inkludiert]` NEU:** Kostenloser hoteleigener **Froschteich, Schmetterlingsgarten, Blattschneiderameisen-Station & Kaiman-Gehege** direkt auf dem Resort-Gelände – ein kompletter zusätzlicher Halbtagesausflug direkt im Hotel! |
-| **Puerto Viejo de Sarapiquí** | **Kein Hotelwechsel zwingend** *(Selva Verde bietet tolles Regenwald-Feeling!)*<br>*Optional: Ara Ambigua Lodge (**ca. +USD 80** für 4N) oder Selva Verde Rainforest Bungalow (**ca. +USD 240**)* | • **`[in Unterkunft inkludiert]` NEU (bei Ara Ambigua für +USD 80):** **2 grosse Pools plus separates Kinder-Planschbecken**, eigener **Kinderspielplatz** und ein angelegtes **Frosch-Biotop (*Frog Land*)**.<br>• **`[in Unterkunft inkludiert]` ÄNDERUNG (bei Selva Verde Rainforest Bungalow):** Gleiche tolle Dschungel-Holzstege der *Selva Verde Lodge*, aber in freistehenden Bungalows mitten im Primärwald mit mehr Privatsphäre und Ruhe. |
+| **La Fortuna / Vulkan Arenal** | **Hotel Los Lagos Spa & Resort**<br>*8.0/10 \| Delta: **ca. +USD 300** (für 4N)* | • **`[inkludiert]` NEU (Grösster Mehrwert der Reise!):** Statt 2 kleiner Becken (*Miradas*) bekommt man eine riesige **Thermal-Erlebniswelt mit 8 Natur-Thermalbecken unterschiedlicher Temperatur UND Kinder-Wasserrutschen** direkt im Hotel (spart teure externe Thermen-Eintritte!).<br>• **`[inkludiert]` NEU:** Kostenloser hoteleigener **Froschteich, Schmetterlingsgarten, Blattschneiderameisen-Station & Kaiman-Gehege** direkt auf dem Resort-Gelände – ein kompletter zusätzlicher Halbtagesausflug direkt im Hotel! |
+| **Puerto Viejo de Sarapiquí** | **Kein Hotelwechsel zwingend** *(Selva Verde bietet tolles Regenwald-Feeling!)*<br>*Optional: Ara Ambigua Lodge (**ca. +USD 80** für 4N) oder Selva Verde Rainforest Bungalow (**ca. +USD 240**)* | • **`[inkludiert]` NEU (bei Ara Ambigua für +USD 80):** **2 grosse Pools plus separates Kinder-Planschbecken**, eigener **Kinderspielplatz** und ein angelegtes **Frosch-Biotop (*Frog Land*)**.<br>• **`[inkludiert]` ÄNDERUNG (bei Selva Verde Rainforest Bungalow):** Gleiche tolle Dschungel-Holzstege der *Selva Verde Lodge*, aber in freistehenden Bungalows mitten im Primärwald mit mehr Privatsphäre und Ruhe. |
